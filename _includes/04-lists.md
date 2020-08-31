@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+List containing a few of my favorite programming languages:
+1. Java
+2. Python
+3. Have I mentioned Java?
